@@ -64,3 +64,5 @@ func GetAllPresensi() (data []Presensi) {
 	}
 	return
 }
+
+// test version
